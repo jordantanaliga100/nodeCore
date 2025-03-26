@@ -15,3 +15,5 @@
 9. Stripe Payment
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
+
+Action 1: Modification from jordan@work or tanaliga100
